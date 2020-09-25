@@ -13,7 +13,7 @@ Grace Kern        |  UniqueProgrammer
 Daniel Barajas    |  TalentedProgrammer 
 
 ## Users
-Gamers/users who are above the age of 12.
+Gamers/users above the age of 12.
 
 ## Key Features
 - Competing against AI.
