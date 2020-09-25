@@ -5,12 +5,12 @@ FPS-Game
 
 ## Group Members
 
-Name | Username
+Name | Nicknames
 ----------------- | -----------------
-Ahmed Hamdan      |  azhamdan
-Wanting Zeng      |  WantingZeng
-Grace Kern        |  kern1ge
-Daniel Barajas      
+Ahmed Hamdan      |  RepoHost
+Wanting Zeng      |  ProfessionalProgrammer
+Grace Kern        |  UniqueProgrammer
+Daniel Barajas    |  TalentedProgrammer 
 
 ## Users
 Gamers/users who are above the age of 12.
