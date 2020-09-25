@@ -17,8 +17,8 @@ Gamers/users above the age of 12.
 
 ## Key Features
 - Competing against AI.
-- Building made by our team in Blender and Unity ProBuilder.
-- Adding UI elements.
+- Buildings and structures modeled by our team in Blender and Unity ProBuilder.
+- Inlcudes fun UI elements.
 - Expandable to include online competition.
 - Completing different objectives.
 
