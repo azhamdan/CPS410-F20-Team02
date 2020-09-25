@@ -4,3 +4,7 @@ FPS-Game
 
 ## Group Members
 ----------------- | -----------------
+Ahmed Hamdan          azhamdan
+Wanting Zeng          WantingZeng
+Grace Kern            kern1ge
+Daniel Barajas      
